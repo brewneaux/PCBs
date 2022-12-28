@@ -1,11 +1,24 @@
 {
   "board": {
-    "active_layer": 0,
-    "active_layer_preset": "",
+    "active_layer": 31,
+    "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_nets": [
       "GND",
-      "VCC"
+      "SCL",
+      "ROTARY_A",
+      "ROTARY_B",
+      "ROTARY_SW",
+      "SW_6",
+      "SW_3",
+      "SW_5",
+      "SW_2",
+      "SW_4",
+      "SW_1",
+      "OLED_SDA",
+      "ADDR2",
+      "ADDR1",
+      "SWITCH_SIG"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -65,11 +78,11 @@
       35,
       36
     ],
-    "visible_layers": "ffdffff_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "fffffff_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
-    "filename": "esp32-led-driver-2.kicad_prl",
+    "filename": "macropad4.kicad_prl",
     "version": 3
   },
   "project": {

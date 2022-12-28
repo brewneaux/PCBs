@@ -1,4 +1,4 @@
-21292616237587530
+21302649174919651
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -50085,6 +50085,20 @@ SN74AHCT125N
 14
 14
 Custom
+SPARKFUN_PRO_MICRO_CASTELLATED
+
+
+0
+48
+24
+Custom
+SSD1306_0.96in
+
+
+0
+4
+4
+Custom
 SolderPad_2_2.0_2.0mm
 
 
@@ -50098,6 +50112,27 @@ SolderPad_3_2.0_2.0mm
 0
 3
 3
+Custom
+Sparkfun Pro Micro - RP2040
+
+
+0
+24
+24
+Custom
+Sparkfun Pro Micro - RP2040_copy
+
+
+0
+24
+24
+Custom
+switch_spst_6mm
+
+
+0
+0
+0
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -79638,6 +79673,517 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
+Sparkfun Eagle Library
+ARDUINO_MEGA_NO_SILK
+<h3> Arduino MEGA R3 footprint</h3>{return}<p>Specifications:{return}<ul><li>Pin count:82</li>{return}<li>Area:4x2.15 in</li>{return}</ul></p>{return}{return}<p>Example device(s):{return}<ul><li>Arduino Mega R3</li>{return}</ul></p>
+
+0
+86
+86
+Sparkfun Eagle Library
+ARDUINO_PRO_MINI
+<h3>Arduino Pro Mini Footprint</h3>{return}<p>Specifications:{return}<ul><li>Pin count: 34</li>{return}<li>Area: 1.7 x 0.3 in</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Arduino Pro Mini</li>{return}</ul></p>
+
+0
+34
+34
+Sparkfun Eagle Library
+ARDUINO_R3
+<h3>Arduino Uno R3 Footprint</h3>{return}Includes mounting holes, and holes for ICSP header{return}<p>Specifications:{return}<ul><li>Pin count: 38</li>{return}<li>Area:2.7x2.1in</li>{return}</ul></p>{return}<p><b>Datasheet referenced for footprint:</b></p>{return}<p>Example device(s):{return}<ul><li>Arduino Uno R3</li>{return}</ul></p>
+
+0
+38
+38
+Sparkfun Eagle Library
+ARDUINO_R3_LOCK_HOLES
+
+
+0
+38
+38
+Sparkfun Eagle Library
+ARDUINO_R3_NO_HOLES
+<h3>Arduino Uno R3 Footprint</h3>{return}Includes holes for ICSP header{return}<p>Specifications:{return}<ul><li>Pin count: 38</li>{return}<li>Area:2.7x2.1in</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Arduino Uno R3</li>{return}</ul></p>
+
+0
+38
+38
+Sparkfun Eagle Library
+ARTEMIS_REDBOARD_NO_SILK
+
+
+0
+31
+31
+Sparkfun Eagle Library
+ARTEMIS_REDBOARD_SILK
+
+
+0
+31
+31
+Sparkfun Eagle Library
+ATLAS_BNC
+
+
+0
+3
+3
+Sparkfun Eagle Library
+ATLAS_CONDUCTIVITY
+
+
+0
+6
+6
+Sparkfun Eagle Library
+AUDIO-AMP-MONO
+<h3>Audio Amp Mono PCB</h3>{return}<p>Specifications:{return}<ul><li>Pin count: 10</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:0.8x0.8 in</li>{return}</ul></p>{return}{return}<p>Example device(s):{return}<ul><li>Audio Amp Mono</li>{return}{return}</ul></p>
+
+0
+10
+10
+Sparkfun Eagle Library
+BEAGLE_BONE_BLACK_CAPE
+<h3>BeagleBone Black Cape Footprint</h3>{return}<p>Specifications:{return}<ul><li>Pin count:92</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:3.4x2.15 in</li>{return}</ul></p>{return}<p><b>Datasheet referenced for footprint:</b></p>{return}<p>Example device(s):{return}<ul><li>BeagleBone Black Cape</li>{return}</ul></p>
+
+0
+92
+92
+Sparkfun Eagle Library
+BREADBOARD-MINI
+<h3>Breadboard Mini</h3>{return}<p> Includes tdocu indicating solderable breadboard mini footprint</p>{return}<p><b>Specifications:</b>{return}<li>Area:1.8x 1.4 inch</li>{return}</ul></p>{return}{return}<p>Example device(s):{return}<ul><li>Breadboard Mini</li>{return}</ul></p>
+
+0
+0
+0
+Sparkfun Eagle Library
+CAN485
+
+
+0
+39
+39
+Sparkfun Eagle Library
+CAN485_OUTER_ONLY
+
+
+0
+35
+35
+Sparkfun Eagle Library
+CAN485_PRO_MINI
+
+
+0
+37
+37
+Sparkfun Eagle Library
+DIL40_0.9
+Dual inline 40 pin package for mbed microcontroller development platform.
+
+0
+40
+40
+Sparkfun Eagle Library
+ELECTRIC_IMP_IMP002
+
+
+0
+35
+35
+Sparkfun Eagle Library
+ESP32_THING
+<h3>SparkFun ESP32 Thing Board</h3>{return}<p>Pins, silkscreen, and logos matching the layout of the <a href=https://www.sparkfun.com/products/13907>SparkFun ESP32 Thing</a></p>{return}{return}<p>Specifications:{return}<ul><li>Pin count: 40</li>{return}<li>Area: 2.32" x 1.00"</li>{return}</p>
+
+0
+40
+40
+Sparkfun Eagle Library
+ESP32_THING_NO_ANT
+
+
+0
+40
+40
+Sparkfun Eagle Library
+FLANGED_RED_ENCLOSURE-DIMENSION
+<h3>Big Red Enclosure PCB</h3>{return}<p>Basic dimension for board outline and mounting  holes</p>{return}<p>Specifications:{return}<ul><li>Pin count:0</li>{return}<li>Area:5.91x3.23 in</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Big Red Box-PCB</li>{return}</ul></p>
+
+0
+0
+0
+Sparkfun Eagle Library
+FLANGED_RED_ENCLOSURE-OUTLINE
+<h3>Big Red Enclosure PCB</h3>{return}<p>Dimension Footprint for mounting holes only</p>{return}<p>Specifications:{return}<ul><li>Pin count:0</li>{return}<li>Area:5.91x3.23 in</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Big Red Box-PCB</li>{return}</ul></p>
+
+0
+0
+0
+Sparkfun Eagle Library
+ISL29125
+<h3>SparkFun ISL29125 Breakout</h3>{return}Has dimension references for mounting holes and board outline. {return}<p>Specifications:{return}<ul><li>Pin count: 5</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area: 0.7x0.65 in</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>ISL29125 Breakout</li>{return}</ul></p>
+
+0
+5
+5
+Sparkfun Eagle Library
+MICRO-SDCARD
+<h3>microSD Card Footprint</h3>{return}Silk outline with pads for SMD. {return}<p>Specifications:{return}<ul><li>Pin count:8</li>{return}<li>Area:0.45x0.6 in</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>MicroSD Card</li>{return}</ul></p>
+
+0
+8
+8
+Sparkfun Eagle Library
+MICROSD-BREAKOUT
+
+
+0
+7
+7
+Sparkfun Eagle Library
+MOJO_V3
+<h3>Mojo v3 FPGA Footprint</h3>{return}<p>Specifications:{return}<ul><li>Pin count:110</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:3.1x2.5 inch</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Mojo</li>{return}</ul></p>
+
+0
+110
+110
+Sparkfun Eagle Library
+MOJO_V3_NO_LABEL
+<h3>Mojo v3 FPGA Footprint</h3>{return}No silk labels on pins{return}<p>Specifications:{return}<ul><li>Pin count:110</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:3.1x2.5 inch</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Mojo</li>{return}</ul></p>
+
+0
+110
+110
+Sparkfun Eagle Library
+NANO
+Arduino Nano Footprint
+
+0
+30
+30
+Sparkfun Eagle Library
+OPENLOG
+
+
+0
+6
+6
+Sparkfun Eagle Library
+OPENLOG_FLIPPED
+
+
+0
+6
+6
+Sparkfun Eagle Library
+PARTICLE_PHOTON
+<h3>Particle Photon</h3>{return}<p>Specifications:{return}<ul><li>Pin count: 24</li>{return}<li>Pin pitch:0.1"</li>{return}<li>Area: 0.8 x 1.4 inches</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Particle Photon</li>{return}</ul></p>
+
+0
+24
+24
+Sparkfun Eagle Library
+PARTICLE_PHOTON_TEMPLATE
+<h3>Particle Photon Template</h3>{return}<p> Used for laying out a shield that breaks out Photon pins.</p>{return}<p>Specifications:{return}<ul><li>Pin count:48</li>{return}<li>Pin pitch:0.1"</li>{return}<li>Area: 0.8 x 1.4 inches</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Particle Photon</li>{return}</ul></p>
+
+0
+48
+48
+Sparkfun Eagle Library
+PARTICLE_PHOTON_TEMPLATE_NO_STANDOFF
+
+
+0
+48
+48
+Sparkfun Eagle Library
+PARTICLE_PHOTON_TEMPLATE_WIDE
+<h3>Particle Photon Template wIDE</h3>{return}<p> Used for laying out a shield that breaks out Photon pins with 0.2" spacing.</p>{return}<p>Specifications:{return}<ul><li>Pin count:48</li>{return}<li>Pin pitch:0.1"</li>{return}<li>Area: 1.6 x 1.4 inches</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Particle Photon</li>{return}</ul></p>
+
+0
+48
+48
+Sparkfun Eagle Library
+PRO_MICRO_C
+
+
+0
+24
+24
+Sparkfun Eagle Library
+QDUINO_MINI_V15
+<h3>Qduino Mini Board Outline and Pins</h3>{return}<p>Board outline for <a href="https://www.sparkfun.com/products/13614">SparkFun Qduino Mini</a></p>{return}<p>Devices using:<ul>{return}<li>QDUINOMINI</li></ul></p>
+
+0
+27
+27
+Sparkfun Eagle Library
+QWIIC_BOARD_MOUNT_HOLES
+
+
+0
+0
+0
+Sparkfun Eagle Library
+QWIIC_BOARD_MOUNT_NOHOLES
+
+
+0
+0
+0
+Sparkfun Eagle Library
+QWIIC_BOARD_MOUNT_SMD_STANDOFFS
+
+
+0
+4
+4
+Sparkfun Eagle Library
+QWIIC_MICRO
+
+
+0
+13
+13
+Sparkfun Eagle Library
+RFM69_BOB
+
+
+0
+16
+16
+Sparkfun Eagle Library
+SAMD21_MINI_BREAKOUT
+
+
+0
+24
+24
+Sparkfun Eagle Library
+SD-MMC-CARD
+<h3> SD MMC Card Footprint</h3>{return}Basic reference with pads for SMD mounting of SD card. {return}<p>Specifications:{return}<ul><li>Pin count:9</li>{return}<li>Area:0.95x1.25 inch</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>SD Card</li>{return}</ul></p>
+
+0
+9
+9
+Sparkfun Eagle Library
+SER_LCD_QWIIC_16X2
+
+
+0
+20
+20
+Sparkfun Eagle Library
+SER_LCD_QWIIC_16X2_REF_ONLY
+
+
+0
+0
+0
+Sparkfun Eagle Library
+SER_LCD_QWIIC_20X4
+
+
+0
+20
+20
+Sparkfun Eagle Library
+SER_LCD_QWIIC_20X4_REF_ONLY
+
+
+0
+0
+0
+Sparkfun Eagle Library
+SPARKFUN_BLACKBERRY_TRACKBALLER
+<h3> SparkFun BlackBerry Trackballer</h3>{return}Footprint for Blackberry trackball.  {return}<p>Specifications:{return}<ul><li>Pin count:11</li>{return}<li>Area:1.10x0.95 inch</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>SparkFun Blackberry Trackball</li>{return}</ul></p>
+
+0
+11
+11
+Sparkfun Eagle Library
+SPARKFUN_EDISON_DAUGHTER
+<h3> SparkFun Edison Daughter</h3>{return}Footprint for mating with Edison SBC.{return}<p>Specifications:{return}<ul><li>Pin count:11</li>{return}<li>Area: 0.98 x 1.4 inch</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>SparkFun Edison</li>{return}</ul></p>
+
+0
+70
+70
+Sparkfun Eagle Library
+SPARKFUN_EDISON_PCB
+<h3> SparkFun Edison PCB</h3>{return}Footprint for Edison PCBs (view that mates with Edison SBC).{return}<p>Specifications:{return}<ul><li>Pin count:11</li>{return}<li>Area:1.20 x 1.75 inch</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>SparkFun Edison</li>{return}</ul></p>
+
+0
+70
+70
+Sparkfun Eagle Library
+SPARKFUN_ESP8266_THING
+<h3>SparkFun Thing Board Footprint</h3>{return}<p>Specifications:{return}<ul><li>Pin count: 20</li>{return}<li>Pin pitch:0.1 inch</li>{return}<li>Area: 2.2 x 1.0 inchees</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>SparkFun Thing</li>{return}</ul></p>
+
+0
+20
+20
+Sparkfun Eagle Library
+SPARKFUN_ESP8266_THING_DEV
+<h3>SparkFun Thing Development Board Footprint</h3>{return}<p>Specifications:{return}<ul><li>Pin count: 20</li>{return}<li>Pin pitch:0.1 inch</li>{return}<li>Area: 2.2 x 1.0 inchees</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>SparkFun Thing Development Board</li>{return}</ul></p>
+
+0
+20
+20
+Sparkfun Eagle Library
+SPARKFUN_LOGIC_LEVEL_CONVERTER
+<h3>SparkFun Logic Level Converter</h3>{return}<p>Specifications:{return}<ul><li>Pin count:12</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area: 0.6x 0.5 "</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>SparkFun Logic Level Converter</li>{return}</ul></p>
+
+0
+12
+12
+Sparkfun Eagle Library
+SPARKFUN_LOGIC_LEVEL_CONVERTER_LOCK
+
+
+0
+12
+12
+Sparkfun Eagle Library
+SPARKFUN_MS5803-14BA_BREAKOUT
+<h3>SparkFun MS5803-14BA Breakout</h3>{return}<p>Specifications:{return}<ul><li>Pin count:7</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area: 0.8x0.7"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>SPARKFUN_MS5803-14BA_BREAKOUT</li>{return}</ul></p>
+
+0
+7
+7
+Sparkfun Eagle Library
+SPARKFUN_NRF52832_BREAKOUT
+<h3>SparkFun nRF52832 Breakout</h3>{return}<p>Specifications:{return}<ul><li>Pin count:42</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area: 0.7x2.05</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>SPARKFUN_NRF52832_BREAKOUT</li>{return}</ul></p>
+
+0
+42
+42
+Sparkfun Eagle Library
+SPARKFUN_OPTOISOLATOR-BOB
+
+
+0
+8
+8
+Sparkfun Eagle Library
+SPARKFUN_PRO_MICRO
+<h3>SparkFun Pro Mico Footprint (with USB connector)</h3>{return}<p>Specifications:{return}<ul><li>Pin count: 24</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:0.7x1.3"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>SparkFun Pro Micro</li>{return}</ul></p>
+
+0
+24
+24
+Sparkfun Eagle Library
+TEENSY
+<h3>Teensy 3 Footprint</h3>{return}<p>Specifications:{return}<ul><li>Pin count:37</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:0.7x1.4"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Teensy 3.1</li>{return}</ul></p>
+
+0
+37
+37
+Sparkfun Eagle Library
+TEENSY-3.1
+<h3>Teensy 3 Footprint</h3>{return}<p>Specifications:{return}<ul><li>Pin count:37</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:0.7x1.4"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Teensy 3.1</li>{return}</ul></p>
+
+0
+37
+37
+Sparkfun Eagle Library
+TEENSY-3.1_NOSILK
+<h3>Teensy 3 Footprint- No Silk Label on Pins</h3>{return}<p>Specifications:{return}<ul><li>Pin count:37</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:0.7x1.4"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Teensy 3.1</li>{return}</ul></p>
+
+0
+37
+37
+Sparkfun Eagle Library
+TEENSYVIEW
+
+
+0
+28
+28
+Sparkfun Eagle Library
+TEENSY_EXTENDED
+<h3>Teensy 3 Footprint</h3>{return}<p>Specifications:{return}<ul><li>Pin count:37</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:0.7x1.4"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Teensy 3.1</li>{return}</ul></p>
+
+0
+58
+58
+Sparkfun Eagle Library
+TEENSY_EXTENDED_NO_SILK
+<h3>Teensy 3 Footprint</h3>{return}<p>Specifications:{return}<ul><li>Pin count:37</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:0.7x1.4"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Teensy 3.1</li>{return}</ul></p>
+
+0
+58
+58
+Sparkfun Eagle Library
+TEENSY_NOSILK
+<h3>Teensy 3 Footprint- No Silk Label on Pins</h3>{return}<p>Specifications:{return}<ul><li>Pin count:37</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:0.7x1.4"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Teensy 3.1</li>{return}</ul></p>
+
+0
+37
+37
+Sparkfun Eagle Library
+TEENSY_TEENSY-3.2-PTH
+
+
+0
+33
+33
+Sparkfun Eagle Library
+THING_PLUS
+
+
+0
+28
+28
+Sparkfun Eagle Library
+UNO_R3_SHIELD
+<h3>Arduino Uno-Compatible Footprint</h3>{return}No holes, no ICSP connections.{return}<p>Specifications:{return}<ul><li>Pin count: 32</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:2.1x2.35"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Arduino Uno R3 Shield</li>{return}</ul></p>
+
+0
+32
+32
+Sparkfun Eagle Library
+UNO_R3_SHIELD_ICSP
+<h3>Arduino Uno-Compatible Footprint with ICSP</h3>{return}No mounting holes.{return}<p>Specifications:{return}<ul><li>Pin count: 38</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:2.1x2.35"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Arduino Uno R3 Shield ICSP</li>{return}</ul></p>
+
+0
+38
+38
+Sparkfun Eagle Library
+UNO_R3_SHIELD_ICSP_NOLABELS
+<h3>Arduino Uno-Compatible Footprint with ICSP</h3>{return}No mounting holes, no silk labels on pins. {return}<p>Specifications:{return}<ul><li>Pin count: 38</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:2.1x2.35"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Arduino Uno R3 Shield ICSP</li>{return}</ul></p>
+
+0
+38
+38
+Sparkfun Eagle Library
+UNO_R3_SHIELD_LOCK
+<h3>Arduino Uno-Compatible Footprint</h3>{return}No holes, no ICSP connections.{return}Locking footprint for headers.{return}<p>Specifications:{return}<ul><li>Pin count: 32</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:2.1x2.35"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Arduino Uno R3 Shield</li>{return}</ul></p>
+
+0
+32
+32
+Sparkfun Eagle Library
+UNO_R3_SHIELD_NOLABELS
+<h3>Arduino Uno-Compatible Footprint</h3>{return}No holes, no ICSP connections, no silk labels. {return}<p>Specifications:{return}<ul><li>Pin count: 32</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:2.1x2.35"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Arduino Uno R3 Shield</li>{return}</ul></p>
+
+0
+32
+32
+Sparkfun Eagle Library
+UNO_R3_SHIELD_NOLABELS_LOCK
+<h3>Arduino Uno-Compatible Footprint</h3>{return}No holes, no ICSP connections, no silk labels.{return}Looking footprint for headers.{return}<p>Specifications:{return}<ul><li>Pin count: 32</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:2.1x2.35"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>Arduino Uno R3 Shield</li>{return}</ul></p>
+
+0
+32
+32
+Sparkfun Eagle Library
+WIZ811MJ
+<h3>WIZnet W5100 Network Module with MagJack - WIZ811MJ Footprint</h3>{return}<p>Specifications:{return}<ul><li>Pin count:40</li>{return}<li>Pin pitch: 0.1"</li>{return}<li>Area:2.05x1.0"</li>{return}</ul></p>{return}<p>Example device(s):{return}<ul><li>WIZNet</li>{return}</ul></p>
+
+0
+40
+40
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
